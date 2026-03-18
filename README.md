@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nourhan Hamdallah</h1>
-<h3 align="center">Front-End Developer | Passionate Learner 🚀</h3>
+<h3 align="center">Full stack Developer | Passionate Learner 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&center=true&vCenter=true&lines=Front-End+Developer;Always+Learning+New+Things;Building+Creative+Websites" />
@@ -10,11 +10,11 @@
 ### 👩‍💻 About Me
 
 - 🎓 I'm a student at SVNU  
-- 💻 Focused on **Front-End Development**  
+- 💻 Focused on **Full stack Development**  
 - 🚀 Passionate about learning and exploring new technologies  
 - 🎯 My goal is to become a professional Web Developer  
 - 🔍 I love solving problems and building real projects  
-- 📈 Currently improving my **JavaScript skills**
+- 📈 Currently improving my **all my technical skills**
 
 ---
 

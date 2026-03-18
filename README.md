@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nourhan Hamdallah</h1>
-<h3 align="center">Full stack Developer | Passionate Learner 🚀</h3>
+<h3 align="center">Full-stack Developer | Passionate Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&center=true&vCenter=true&lines=Full stack+Developer;Always+Learning+New+Things;Building+Creative+Websites" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&center=true&vCenter=true&lines=Full-stack+Developer;Always+Learning+New+Things;Building+Creative+Websites" />
 </p>
 
 ---
